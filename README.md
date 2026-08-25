@@ -32,3 +32,10 @@ Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the program:
+
+```bash 
+python app.py
+```
